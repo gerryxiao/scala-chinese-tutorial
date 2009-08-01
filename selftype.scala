@@ -9,7 +9,8 @@
 /** 
 * 这是个scala自我类型指示的例子
 * @author scala.org 
-* @version 0.1
+* 这个注释太豪华，是YASnippet的杰作
+* * @version 0.1
 * $Id$
 */
 abstract class Graph {
